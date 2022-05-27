@@ -1,3 +1,30 @@
-# GMC_Mateusz_Krol_Rectangle_Noise
-A wave of scaled rectangles
-I am interested in creating 3D shade illusions by using only flat objects. I want that the gradient is not created by the color but by some increasing changes in the pattern. In this example the ilussion of a hole is achieved by the gradient of scaling the rectangles by a smooth noise to the ones that are controlled by a chaotic noise.
+# About emptyExample
+
+![Screenshot of emptyExample](emptyExample.png)
+
+### Learning Objectives
+
+This example is the simplest possible openFrameworks app! It does nothing. 
+
+...Well, *almost* nothing. Although it may not be apparent, the emptyExample activates all of the default system states. (For example, it sets the default fill color to white; it just doesn't happen to draw anything with it.)
+
+The emptyExample is great for making sure that your openFrameworks development environment is compiling properly. It can also be useful as a "starter template" for making simple programs. 
+
+The emptyExample will help you understand what are the bare necessities of an openFrameworks program. In this regard, you can think of it as a "Hello World" for OF. 
+
+
+### Expected Behavior
+
+When launching this app, you should see a light-gray screen. 
+
+* There's no interaction. 
+* There's nothing to see. 
+* That's it. 
+
+Instructions for using the app:
+
+* There's nothing to do. Move along.
+
+### Other classes used in this file
+
+This example uses no other classes.
